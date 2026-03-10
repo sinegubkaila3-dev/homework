@@ -1,0 +1,33 @@
+body {
+	font-family: sans-serif;
+	font-weight: 600;
+	color: #666;
+}
+.label {
+	display: block;
+	padding: 5px;
+}
+
+.form-group {
+	border: none;
+	padding: 0;
+}
+.form {
+	border: 1px solid #666;
+	max-width: 300px;
+	margin: 20px;
+	padding: 15px;
+	border-radius: 15px;
+}
+
+.button {
+	border-radius: 10px;
+}
+
+input {
+	border-radius: 6px;
+}
+
+textarea {
+	border-radius: 6px;
+}
